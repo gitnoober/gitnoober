@@ -1,4 +1,5 @@
 - **Hi, I'm Priyanshu** :wave:
+- ![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou)
 - ![](https://c.tenor.com/PXZw5pZ-Hz4AAAAC/panic-attack-gendry.gif)
 - 🌱 I’m currently learning Django REST framework.
 - :speech_balloon: We can talk about **algorithms, development and movies**
