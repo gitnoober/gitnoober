@@ -1,5 +1,5 @@
 - **Hi, I'm Priyanshu** :wave:
-- ![](https://komarev.com/ghpvc/?username=gitnoober) [](https://img.shields.io/github/followers/gitnoober?label=Follow&style=social)](https://github.com/gitnoober)
+- ![](https://komarev.com/ghpvc/?username=gitnoober) [![Github](https://img.shields.io/github/followers/gitnoober?label=Follow&style=social)](https://github.com/gitnoober)
 
 - 🌱 I’m currently learning Django REST framework.
 - :speech_balloon: We can talk about **algorithms, development and movies**
