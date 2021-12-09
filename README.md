@@ -1,5 +1,8 @@
 - **Hi, I'm Priyanshu** :wave:
 - [](https://komarev.com/ghpvc/?username=gitnoober) [![Github](https://img.shields.io/github/followers/gitnoober?label=Follow&style=social)](https://github.com/gitnoober)
+- [![](https://img.shields.io/badge/Leetcode-gitnoober-brightgreen)](https://leetcode.com/naveenverma/)
+[![](https://img.shields.io/badge/Gmail-priyanshusingh349%40gmail.com-red)](https://mail.google.com/mail/u/0/?tab=km#inbox)
+
 
 <p><em>A bachelor student, majoring in Computer Science. 😊</br>
 </em></p>
