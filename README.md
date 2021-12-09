@@ -1,13 +1,12 @@
 - **Hi, I'm Priyanshu** :wave:
 - [![](https://img.shields.io/badge/Leetcode-gitnoober-brightgreen)](https://leetcode.com/naveenverma/)
 [![](https://img.shields.io/badge/Gmail-priyanshusingh349%40gmail.com-red)](https://mail.google.com/mail/u/0/?tab=km#inbox)
+[![Linkedin: gitnoober](https://img.shields.io/badge/-gitnoober-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/priyanshu-singh-b8b237a7/)
+[![GitHub gitnoober](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/gitnoober)
 
 
 <p><em>A bachelor student, majoring in Computer Science. 😊</br>
 </em></p>
-
-[![Linkedin: gitnoober](https://img.shields.io/badge/-gitnoober-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/priyanshu-singh-b8b237a7/)
-[![GitHub gitnoober](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/gitnoober)
 
 
 
